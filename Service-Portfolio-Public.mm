@@ -3,12 +3,6 @@
 <attribute_registry FONT_SIZE="6">
     <attribute_name MANUAL="true" NAME="Person">
         <attribute_value VALUE=""/>
-        <attribute_value VALUE="Adam, Michaele"/>
-        <attribute_value VALUE="Mittelbach, Jens"/>
-        <attribute_value VALUE="Musiat, Jutta"/>
-        <attribute_value VALUE="Reinhold, Grit"/>
-        <attribute_value VALUE="Schott, Ines"/>
-        <attribute_value VALUE="Wenzel, Christina"/>
     </attribute_name>
 </attribute_registry>
 <node TEXT=" Service-Angebot der Bibliothek" FOLDED="false" ID="ID_1" CREATED="1399656804066" MODIFIED="1439320552994" COLOR="#cee0f0" BACKGROUND_COLOR="#3d85c6">
@@ -115,9 +109,10 @@
 <cloud COLOR="#ffffcc" SHAPE="ROUND_RECT"/>
 </node>
 </node>
-<node TEXT="Datenschutz und Informationssicherheit" ID="ID_18669103" CREATED="1399876344700" MODIFIED="1439320501201" COLOR="#feffff" BACKGROUND_COLOR="#999900" STYLE="bubble">
-<font NAME="Helvetica" BOLD="true"/>
+<node TEXT="Datenschutz und Informationssicherheit" ID="ID_18669103" CREATED="1399876344700" MODIFIED="1441811649924" COLOR="#feffff" BACKGROUND_COLOR="#999900" STYLE="bubble">
 <edge COLOR="#666600"/>
+<cloud COLOR="#ffffcc" SHAPE="ROUND_RECT"/>
+<font NAME="Helvetica" BOLD="true"/>
 </node>
 </node>
 <node TEXT="Operationalisierung" POSITION="right" ID="ID_1497328016" CREATED="1399656804074" MODIFIED="1439320654427" COLOR="#feffff" BACKGROUND_COLOR="#660000" STYLE="bubble" HGAP="-264" VSHIFT="-141">
@@ -222,8 +217,8 @@
 <node TEXT="Literaturverwaltung" FOLDED="true" ID="ID_3" CREATED="1399656804072" MODIFIED="1439320501207" COLOR="#eeeeee" BACKGROUND_COLOR="#000099" STYLE="bubble">
 <font NAME="Helvetica" BOLD="true"/>
 <edge COLOR="#000066"/>
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="1" TRANSPARENCY="80" DASH="3 3" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_162163553" STARTINCLINATION="453;-10;" ENDINCLINATION="171;0;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="1" TRANSPARENCY="80" DASH="3 3" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1069798394" STARTINCLINATION="258;0;" ENDINCLINATION="-881;-527;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="1" TRANSPARENCY="80" DASH="3 3" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_162163553" STARTINCLINATION="453;-10;" ENDINCLINATION="171;0;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
 <node TEXT="Literaturverwaltung im &#xdc;berblick" FOLDED="true" ID="ID_1886618677" CREATED="1403030966562" MODIFIED="1439320501207" TEXT_SHORTENED="true" COLOR="#eeeeee" BACKGROUND_COLOR="#0000cc" STYLE="bubble">
 <font NAME="Helvetica" BOLD="true"/>
 <attribute_layout VALUE_WIDTH="156"/>
@@ -792,10 +787,10 @@
 <font BOLD="true"/>
 <edge COLOR="#000099"/>
 <node TEXT="Statistiken erstellen/Analysetools nutzen" ID="ID_755363699" CREATED="1399656804072" MODIFIED="1441115807552" TEXT_SHORTENED="true" COLOR="#eeeeee" BACKGROUND_COLOR="#0000ff" STYLE="bubble">
+<font NAME="Helvetica" BOLD="true"/>
 <attribute_layout VALUE_WIDTH="106"/>
 <edge COLOR="#0000cc"/>
 <cloud COLOR="#ccccff" SHAPE="ROUND_RECT"/>
-<font NAME="Helvetica" BOLD="true"/>
 </node>
 <node TEXT="Literaturverwaltung" ID="ID_162163553" CREATED="1399656804072" MODIFIED="1441115811145" COLOR="#eeeeee" BACKGROUND_COLOR="#0000ff" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
@@ -877,7 +872,7 @@
 <node TEXT="Informationsrecherche" FOLDED="true" ID="ID_12" CREATED="1399656804073" MODIFIED="1439320501220" COLOR="#feffff" BACKGROUND_COLOR="#009900" STYLE="bubble">
 <font NAME="Helvetica" BOLD="true"/>
 <edge COLOR="#006600"/>
-<node TEXT="Geistes- und Sozialwissenschaften" ID="ID_39" CREATED="1399876344703" MODIFIED="1434367931566" COLOR="#feffff" BACKGROUND_COLOR="#00cc00" STYLE="bubble">
+<node TEXT="Geistes- und Sozialwissenschaften" ID="ID_39" CREATED="1399876344703" MODIFIED="1441811553939" COLOR="#feffff" BACKGROUND_COLOR="#00cc00" STYLE="bubble">
 <font BOLD="true"/>
 <edge COLOR="#009900"/>
 </node>
@@ -885,7 +880,7 @@
 <font BOLD="true"/>
 <edge COLOR="#009900"/>
 </node>
-<node TEXT="Spezielle Themen-Recherche" FOLDED="true" ID="ID_311687715" CREATED="1399877563391" MODIFIED="1434367937917" COLOR="#feffff" BACKGROUND_COLOR="#00cc00" STYLE="bubble">
+<node TEXT="Spezielle Themen-Recherche" ID="ID_311687715" CREATED="1399877563391" MODIFIED="1434367937917" COLOR="#feffff" BACKGROUND_COLOR="#00cc00" STYLE="bubble">
 <font BOLD="true"/>
 <edge COLOR="#009900"/>
 <node TEXT="Normen" ID="ID_1289047512" CREATED="1399877596144" MODIFIED="1439218010782" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble">
@@ -915,11 +910,12 @@
 </node>
 </node>
 </node>
-<node TEXT="Trendanalyse" ID="ID_35" CREATED="1399656804073" MODIFIED="1439320501221" COLOR="#feffff" BACKGROUND_COLOR="#009900" STYLE="bubble">
-<font NAME="Helvetica" BOLD="true"/>
+<node TEXT="Trendanalyse" ID="ID_35" CREATED="1399656804073" MODIFIED="1441811628153" COLOR="#feffff" BACKGROUND_COLOR="#009900" STYLE="bubble">
 <edge COLOR="#006600"/>
+<cloud COLOR="#ccffcc" SHAPE="RECT"/>
+<font NAME="Helvetica" BOLD="true"/>
 </node>
-<node TEXT="Open Educational Resources" ID="ID_1334535135" CREATED="1399656804073" MODIFIED="1439320741196" COLOR="#feffff" BACKGROUND_COLOR="#009900" STYLE="bubble" TEXT_SHORTENED="true">
+<node TEXT="Open Educational Resources" ID="ID_1334535135" CREATED="1399656804073" MODIFIED="1441811632039" COLOR="#feffff" BACKGROUND_COLOR="#009900" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="Helvetica" BOLD="true"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 
@@ -934,7 +930,6 @@
 </html>
 </richcontent>
 <edge COLOR="#006600"/>
-<cloud COLOR="#ccffcc" SHAPE="ROUND_RECT"/>
 </node>
 </node>
 <node TEXT="Lernen und Forschen" POSITION="left" ID="ID_1235582768" CREATED="1439218680763" MODIFIED="1439320501221" COLOR="#cee0f0" BACKGROUND_COLOR="#3d85c6" STYLE="bubble">
