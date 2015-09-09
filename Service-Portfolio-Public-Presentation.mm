@@ -3,12 +3,6 @@
 <attribute_registry FONT_SIZE="6">
     <attribute_name MANUAL="true" NAME="Person">
         <attribute_value VALUE=""/>
-        <attribute_value VALUE="Adam, Michaele"/>
-        <attribute_value VALUE="Mittelbach, Jens"/>
-        <attribute_value VALUE="Musiat, Jutta"/>
-        <attribute_value VALUE="Reinhold, Grit"/>
-        <attribute_value VALUE="Schott, Ines"/>
-        <attribute_value VALUE="Wenzel, Christina"/>
     </attribute_name>
 </attribute_registry>
 <node TEXT=" Service-Angebot der Bibliothek" FOLDED="false" ID="ID_1" CREATED="1399656804066" MODIFIED="1439225516997" COLOR="#cee0f0" BACKGROUND_COLOR="#3d85c6">
