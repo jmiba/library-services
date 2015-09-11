@@ -173,29 +173,33 @@
 <node TEXT="Datenmanagement" ID="ID_23" CREATED="1399656804074" MODIFIED="1441901719242" COLOR="#eeeeee" BACKGROUND_COLOR="#990099" STYLE="bubble">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#660066"/>
-<node TEXT="Langzeitarchivierung" ID="ID_1183733217" CREATED="1399656804074" MODIFIED="1441901724129" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble">
+<node TEXT="Langzeitarchivierung" ID="ID_1183733217" CREATED="1399656804074" MODIFIED="1441957956094" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#990099"/>
 <cloud COLOR="#ffccff" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Forschungsdaten" ID="ID_995312971" CREATED="1399656804074" MODIFIED="1441901729612" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble">
+<node TEXT="Forschungsdaten" ID="ID_995312971" CREATED="1399656804074" MODIFIED="1441957984408" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#990099"/>
 <cloud COLOR="#ffccff" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Datenformate" ID="ID_357684623" CREATED="1399656804074" MODIFIED="1441901727732" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble">
+<node TEXT="Datenformate" ID="ID_357684623" CREATED="1399656804074" MODIFIED="1441958013966" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#990099"/>
 <cloud COLOR="#ffccff" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
 </node>
 <node TEXT="Experimente" ID="ID_33" CREATED="1399656804074" MODIFIED="1439320501205" COLOR="#eeeeee" BACKGROUND_COLOR="#990099" STYLE="bubble">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#660066"/>
-<node TEXT="Maker Space" ID="ID_34" CREATED="1399656804074" MODIFIED="1439320593127" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble">
+<node TEXT="Maker Space" ID="ID_34" CREATED="1399656804074" MODIFIED="1441958039681" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#990099"/>
 <cloud COLOR="#ffccff" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Workshop"/>
 </node>
 </node>
 <node TEXT="Big Data und Datenanalyse" ID="ID_1397374458" CREATED="1399875530313" MODIFIED="1439320501205" VSHIFT="-1" COLOR="#eeeeee" BACKGROUND_COLOR="#990099" STYLE="bubble">

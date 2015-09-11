@@ -133,29 +133,33 @@
 <node TEXT="Datenmanagement" COLOR="#eeeeee" BACKGROUND_COLOR="#990099" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_23" CREATED="1399656804074" MODIFIED="1441901719242">
 <edge STYLE="bezier" COLOR="#660066" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10" BOLD="true" ITALIC="false"/>
-<node TEXT="Langzeitarchivierung" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_1183733217" CREATED="1399656804074" MODIFIED="1441901724129">
+<node TEXT="Langzeitarchivierung" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_1183733217" CREATED="1399656804074" MODIFIED="1441957956094" TEXT_SHORTENED="true">
 <edge STYLE="bezier" COLOR="#990099" WIDTH="thin"/>
 <cloud COLOR="#ffccff" SHAPE="ROUND_RECT"/>
 <font NAME="SansSerif" SIZE="10" BOLD="true" ITALIC="false"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Forschungsdaten" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_995312971" CREATED="1399656804074" MODIFIED="1441901729612">
+<node TEXT="Forschungsdaten" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_995312971" CREATED="1399656804074" MODIFIED="1441957984408" TEXT_SHORTENED="true">
 <edge STYLE="bezier" COLOR="#990099" WIDTH="thin"/>
 <cloud COLOR="#ffccff" SHAPE="ROUND_RECT"/>
 <font NAME="SansSerif" SIZE="10" BOLD="true" ITALIC="false"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Datenformate" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_357684623" CREATED="1399656804074" MODIFIED="1441901727732">
+<node TEXT="Datenformate" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_357684623" CREATED="1399656804074" MODIFIED="1441958013966" TEXT_SHORTENED="true">
 <edge STYLE="bezier" COLOR="#990099" WIDTH="thin"/>
 <cloud COLOR="#ffccff" SHAPE="ROUND_RECT"/>
 <font NAME="SansSerif" SIZE="10" BOLD="true" ITALIC="false"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
 </node>
 <node TEXT="Experimente" COLOR="#eeeeee" BACKGROUND_COLOR="#990099" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_33" CREATED="1399656804074" MODIFIED="1439320501205">
 <edge STYLE="bezier" COLOR="#660066" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10" BOLD="true" ITALIC="false"/>
-<node TEXT="Maker Space" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_34" CREATED="1399656804074" MODIFIED="1439320593127">
+<node TEXT="Maker Space" COLOR="#eeeeee" BACKGROUND_COLOR="#cc00cc" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_34" CREATED="1399656804074" MODIFIED="1441958039681" TEXT_SHORTENED="true">
 <edge STYLE="bezier" COLOR="#990099" WIDTH="thin"/>
 <cloud COLOR="#ffccff" SHAPE="ROUND_RECT"/>
 <font NAME="SansSerif" SIZE="10" BOLD="true" ITALIC="false"/>
+<attribute NAME="Service-Form" VALUE="Workshop"/>
 </node>
 </node>
 <node TEXT="Big Data und Datenanalyse" COLOR="#eeeeee" BACKGROUND_COLOR="#990099" STYLE="bubble" MAX_WIDTH="600" MIN_WIDTH="1" ID="ID_1397374458" CREATED="1399875530313" MODIFIED="1439320501205" VSHIFT="-1">
