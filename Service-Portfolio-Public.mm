@@ -66,9 +66,11 @@
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#666600"/>
 <cloud COLOR="#ffffcc" SHAPE="ROUND_RECT"/>
-<node TEXT="Literaturverwaltung" ID="ID_162163553" CREATED="1399656804072" MODIFIED="1441899082524" TEXT_SHORTENED="true" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble">
+<node TEXT="Literaturverwaltung" ID="ID_162163553" CREATED="1399656804072" MODIFIED="1443440392814" TEXT_SHORTENED="true" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble">
 <font BOLD="true"/>
 <attribute_layout VALUE_WIDTH="106"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
+<attribute NAME="Service-Form" VALUE="Kurs"/>
 <edge COLOR="#999900"/>
 </node>
 </node>
@@ -79,25 +81,29 @@
 <node TEXT="Wissenschaftliche Vernetzung" ID="ID_28" CREATED="1399656804069" MODIFIED="1441828996565" COLOR="#feffff" BACKGROUND_COLOR="#999900" STYLE="bubble">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#666600"/>
-<node TEXT="Twitter in der Wissenschaft" ID="ID_36" CREATED="1399876344701" MODIFIED="1439218623367" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble">
+<node TEXT="Twitter in der Wissenschaft" ID="ID_36" CREATED="1399876344701" MODIFIED="1443440458020" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#999900"/>
 <cloud COLOR="#ffffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Feeds und Alerting Services" ID="ID_373079343" CREATED="1399876344701" MODIFIED="1439218625215" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble">
+<node TEXT="Feeds und Alerting Services" ID="ID_373079343" CREATED="1399876344701" MODIFIED="1443440478247" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#999900"/>
 <cloud COLOR="#ffffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Netzwerke und Karriere" ID="ID_831394460" CREATED="1399876344701" MODIFIED="1439218626905" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble">
+<node TEXT="Netzwerke und Karriere" ID="ID_831394460" CREATED="1399876344701" MODIFIED="1443440495141" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#999900"/>
 <cloud COLOR="#ffffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Forschungsf&#xf6;rderung" ID="ID_1448715996" CREATED="1399876344701" MODIFIED="1439218628897" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble">
+<node TEXT="Forschungsf&#xf6;rderung" ID="ID_1448715996" CREATED="1399876344701" MODIFIED="1443440509120" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#999900"/>
 <cloud COLOR="#ffffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
 </node>
 <node TEXT="Informationsrecht und -ethik" ID="ID_31" CREATED="1399656804070" MODIFIED="1439320501197" COLOR="#feffff" BACKGROUND_COLOR="#999900" STYLE="bubble">
@@ -107,16 +113,18 @@
 <node TEXT="Wissenschaftliches Arbeiten" ID="ID_349597669" CREATED="1399656804070" MODIFIED="1439320501199" COLOR="#feffff" BACKGROUND_COLOR="#999900" STYLE="bubble">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#666600"/>
-<node TEXT="Einf&#xfc;hrungskurs Informationskompetenz" ID="ID_1441746029" CREATED="1399876344701" MODIFIED="1439218612636" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble">
+<node TEXT="Einf&#xfc;hrung Informationskompetenz" ID="ID_1441746029" CREATED="1399876344701" MODIFIED="1443440307188" COLOR="#ffffff" BACKGROUND_COLOR="#cccc00" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#999900"/>
 <cloud COLOR="#ffffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Kurs"/>
 </node>
 </node>
-<node TEXT="Datenschutz und Informationssicherheit" ID="ID_18669103" CREATED="1399876344700" MODIFIED="1441811649924" COLOR="#feffff" BACKGROUND_COLOR="#999900" STYLE="bubble">
+<node TEXT="Datenschutz und Informationssicherheit" ID="ID_18669103" CREATED="1399876344700" MODIFIED="1443440356274" COLOR="#feffff" BACKGROUND_COLOR="#999900" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#666600"/>
 <cloud COLOR="#ffffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
 </node>
 <node TEXT="Operationalisierung" POSITION="right" ID="ID_1497328016" CREATED="1399656804074" MODIFIED="1441956895953" COLOR="#feffff" BACKGROUND_COLOR="#660000" STYLE="bubble" HGAP="-264" VSHIFT="-117">
@@ -131,17 +139,18 @@
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#990000"/>
 </node>
-<node TEXT="Bibliothek" FOLDED="true" ID="ID_1112292525" CREATED="1399876344701" MODIFIED="1439320501203" COLOR="#feffff" BACKGROUND_COLOR="#cc0000" STYLE="bubble">
+<node TEXT="Bibliothek" FOLDED="true" ID="ID_1112292525" CREATED="1399876344701" MODIFIED="1443440601060" COLOR="#feffff" BACKGROUND_COLOR="#cc0000" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#990000"/>
 <cloud COLOR="#ffcccc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Kurs"/>
 <node TEXT="Lern- und Arbeitsort" ID="ID_295744404" CREATED="1424113147659" MODIFIED="1434368188524" COLOR="#ffffff" BACKGROUND_COLOR="#ff9999">
 <font BOLD="true"/>
 </node>
 <node TEXT="Gedruckte und digitale Medien" ID="ID_654511782" CREATED="1424113147659" MODIFIED="1434368188525" COLOR="#ffffff" BACKGROUND_COLOR="#ff9999">
 <font BOLD="true"/>
 </node>
-<node TEXT="Informationsangebote" ID="ID_1653200624" CREATED="1424113147659" MODIFIED="1439320284313" COLOR="#ffffff" BACKGROUND_COLOR="#ff9999">
+<node TEXT="Informationsangebote" ID="ID_1653200624" CREATED="1424113147659" MODIFIED="1443440587538" COLOR="#ffffff" BACKGROUND_COLOR="#ff9999">
 <font BOLD="true"/>
 </node>
 <node TEXT="Service" ID="ID_154208883" CREATED="1424113147659" MODIFIED="1434368188526" COLOR="#ffffff" BACKGROUND_COLOR="#ff9999">
@@ -155,15 +164,17 @@
 <node TEXT="Technik" ID="ID_910496984" CREATED="1399876702442" MODIFIED="1439320501203" COLOR="#feffff" BACKGROUND_COLOR="#990000" STYLE="bubble">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#660000"/>
-<node TEXT="Kopieren, Scannen, Drucken" ID="ID_95248515" CREATED="1399876981709" MODIFIED="1439320501203" COLOR="#feffff" BACKGROUND_COLOR="#cc0000" STYLE="bubble">
+<node TEXT="Kopieren, Scannen, Drucken" ID="ID_95248515" CREATED="1399876981709" MODIFIED="1443440615359" COLOR="#feffff" BACKGROUND_COLOR="#cc0000" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#990000"/>
 <cloud COLOR="#ffcccc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Kurs"/>
 </node>
-<node TEXT="Digitalisieren" ID="ID_685692334" CREATED="1399876981709" MODIFIED="1439320501204" COLOR="#feffff" BACKGROUND_COLOR="#cc0000" STYLE="bubble">
+<node TEXT="Digitalisieren" ID="ID_685692334" CREATED="1399876981709" MODIFIED="1443440631649" COLOR="#feffff" BACKGROUND_COLOR="#cc0000" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#990000"/>
 <cloud COLOR="#ffcccc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
 </node>
 </node>
@@ -297,7 +308,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Literaturverwaltung" FOLDED="true" ID="ID_3" CREATED="1399656804072" MODIFIED="1441956696725" COLOR="#eeeeee" BACKGROUND_COLOR="#0000ff" STYLE="bubble">
+<node TEXT="Literaturverwaltung" FOLDED="true" ID="ID_3" CREATED="1399656804072" MODIFIED="1443440420879" COLOR="#eeeeee" BACKGROUND_COLOR="#0000ff" STYLE="bubble">
 <font BOLD="true"/>
 <edge COLOR="#0000cc"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="1" TRANSPARENCY="80" DASH="3 3" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_162163553" STARTINCLINATION="-9;-738;" ENDINCLINATION="-741;-478;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
@@ -591,7 +602,7 @@
 <node TEXT="" ID="ID_794060832" CREATED="1403877324271" MODIFIED="1441900647125" BACKGROUND_COLOR="#ccccff"/>
 </node>
 </node>
-<node TEXT="Mendeley" ID="ID_968461119" CREATED="1403030966565" MODIFIED="1441900698282" COLOR="#333333" BACKGROUND_COLOR="#6666ff" STYLE="bubble">
+<node TEXT="Mendeley" ID="ID_968461119" CREATED="1403030966565" MODIFIED="1443440420879" COLOR="#333333" BACKGROUND_COLOR="#6666ff" STYLE="bubble">
 <font BOLD="false"/>
 <edge COLOR="#0033cc"/>
 </node>
@@ -792,37 +803,43 @@
 <node TEXT="Spezielle Themen-Recherche" FOLDED="true" ID="ID_311687715" CREATED="1399877563391" MODIFIED="1434367937917" COLOR="#feffff" BACKGROUND_COLOR="#00cc00" STYLE="bubble">
 <font BOLD="true"/>
 <edge COLOR="#009900"/>
-<node TEXT="Normen" ID="ID_1289047512" CREATED="1399877596144" MODIFIED="1439218010782" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble">
+<node TEXT="Normen" ID="ID_1289047512" CREATED="1399877596144" MODIFIED="1443440670681" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#00cc00"/>
 <cloud COLOR="#ccffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Zeitungen, Zeitschriften" ID="ID_1397532981" CREATED="1399877628241" MODIFIED="1439218018537" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble">
+<node TEXT="Zeitungen, Zeitschriften" ID="ID_1397532981" CREATED="1399877628241" MODIFIED="1443440670683" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#00cc00"/>
 <cloud COLOR="#ccffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Tontr&#xe4;ger, Filme" ID="ID_362966096" CREATED="1399877640402" MODIFIED="1439218020403" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble">
+<node TEXT="Tontr&#xe4;ger, Filme" ID="ID_362966096" CREATED="1399877640402" MODIFIED="1443440670685" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#00cc00"/>
 <cloud COLOR="#ccffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Karten" ID="ID_1005826355" CREATED="1399877664225" MODIFIED="1439218022436" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble">
+<node TEXT="Karten" ID="ID_1005826355" CREATED="1399877664225" MODIFIED="1443440670686" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#00cc00"/>
 <cloud COLOR="#ccffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
-<node TEXT="Historische Best&#xe4;nde" ID="ID_1816269749" CREATED="1399877664225" MODIFIED="1439218024486" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble">
+<node TEXT="Historische Best&#xe4;nde" ID="ID_1816269749" CREATED="1399877664225" MODIFIED="1443440670687" COLOR="#444444" BACKGROUND_COLOR="#33ff33" STYLE="bubble" TEXT_SHORTENED="true">
 <font BOLD="true"/>
 <edge COLOR="#00cc00"/>
 <cloud COLOR="#ccffcc" SHAPE="ROUND_RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
 </node>
 </node>
-<node TEXT="Trendanalyse" ID="ID_35" CREATED="1399656804073" MODIFIED="1441811628153" COLOR="#feffff" BACKGROUND_COLOR="#009900" STYLE="bubble">
+<node TEXT="Trendanalyse" ID="ID_35" CREATED="1399656804073" MODIFIED="1443440526413" COLOR="#feffff" BACKGROUND_COLOR="#009900" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#006600"/>
 <cloud COLOR="#ccffcc" SHAPE="RECT"/>
+<attribute NAME="Service-Form" VALUE="Individuelle Beratung"/>
 </node>
 <node TEXT="Open Educational Resources" ID="ID_1334535135" CREATED="1399656804073" MODIFIED="1441811632039" COLOR="#feffff" BACKGROUND_COLOR="#009900" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
@@ -853,11 +870,12 @@
 <node TEXT="Publikation" ID="ID_4" CREATED="1399656804073" MODIFIED="1439320501222" COLOR="#eeeeee" BACKGROUND_COLOR="#009999" STYLE="bubble" VSHIFT="30">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#006666"/>
-<node TEXT="Open Access" FOLDED="true" ID="ID_21" CREATED="1399656804073" MODIFIED="1439221322238" COLOR="#eeeeee" BACKGROUND_COLOR="#00cccc" STYLE="bubble" TEXT_SHORTENED="true">
+<node TEXT="Open Access" FOLDED="true" ID="ID_21" CREATED="1399656804073" MODIFIED="1443440553245" COLOR="#eeeeee" BACKGROUND_COLOR="#00cccc" STYLE="bubble" TEXT_SHORTENED="true">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#6aa84f"/>
 <cloud COLOR="#ccffff" SHAPE="ROUND_RECT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="1" TRANSPARENCY="80" DASH="3 3" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1334535135" STARTINCLINATION="583;86;" ENDINCLINATION="259;553;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
+<attribute NAME="Service-Form" VALUE="Kurs"/>
 <node TEXT="Wie umsetzen?" FOLDED="true" ID="35" CREATED="1402573575340" MODIFIED="1413651177029" BACKGROUND_COLOR="#00ffff">
 <edge COLOR="#00cccc"/>
 <node TEXT="Gr&#xfc;ner Weg" FOLDED="true" ID="4" CREATED="1402573575340" MODIFIED="1413651226767" BACKGROUND_COLOR="#66ffff">
@@ -931,11 +949,12 @@
 </node>
 </node>
 </node>
-<node TEXT="Bibliometrie" FOLDED="true" ID="ID_30" CREATED="1399656804074" MODIFIED="1439221509419" TEXT_SHORTENED="true" COLOR="#eeeeee" BACKGROUND_COLOR="#00cccc" STYLE="bubble">
+<node TEXT="Bibliometrie" FOLDED="true" ID="ID_30" CREATED="1399656804074" MODIFIED="1443440570623" TEXT_SHORTENED="true" COLOR="#eeeeee" BACKGROUND_COLOR="#00cccc" STYLE="bubble">
 <font NAME="SansSerif" BOLD="true"/>
 <edge COLOR="#6aa84f"/>
 <cloud COLOR="#ccffff" SHAPE="ROUND_RECT"/>
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="1" TRANSPARENCY="80" DASH="3 3" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_35" STARTINCLINATION="-167;191;" ENDINCLINATION="684;0;" STARTARROW="DEFAULT" ENDARROW="DEFAULT"/>
+<attribute NAME="Service-Form" VALUE="Kurs"/>
 <node TEXT="Datenquellen" FOLDED="true" ID="20" CREATED="1402574201747" MODIFIED="1413651189801" BACKGROUND_COLOR="#00ffff">
 <edge COLOR="#00cccc"/>
 <node TEXT="Zitationsdatenbanken, Suchmaschinen" FOLDED="true" ID="67" CREATED="1402574201747" MODIFIED="1413651273511" BACKGROUND_COLOR="#66ffff">
